@@ -1,0 +1,10 @@
+Django==5.0.1
+django-google-translate==1.1
+googletrans==4.0.0rc1
+nltk==3.8.1
+pillow==10.2.0
+PyPDF2==3.0.1
+spacy==3.7.4
+sumy==0.11.0
+waitress==3.0.0
+yake==0.4.8
