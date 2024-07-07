@@ -11,6 +11,12 @@
         {
             "src": "build_files.sh",
             "use": "@vercel/static-build"
+        },
+        {
+            "rewrites": [
+              { "source": "/(.*)", "destination": "/" }
+            ]
         }
+
     ]
 }
